@@ -7,3 +7,9 @@ def addition(a,b):
 a=6
 b=9
 print(addition(a,b))
+def substraction(a,b):
+    return a-b
+a=9
+b=9
+print(substraction(a,b))
+
